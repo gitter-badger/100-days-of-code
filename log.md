@@ -14,6 +14,6 @@ Worked on HTML5 only tribute page (Interaction and style and responsiveness will
 **Today's Progress**: 
 Today I practiced a little CSS. I am very comfortable with CSS but just wanted to sharpen my skills before styling my Tribute page and starting my Portfolio project.
 
-**Thoughts:** As part of the challange, I tried creating a simple CSS only switch. I idea was very simple just took longer than I expected. I finally got it to work though. The code for this will be shown in the portfolio project.
+**Thoughts:** As part of the challange, I tried creating a simple CSS only switch. I idea was very simple just took longer than I expected. I finally got it to work though. The code for this will be used in the portfolio project. Look at the code in the practice.html file.
 
 **Link to work:** 
