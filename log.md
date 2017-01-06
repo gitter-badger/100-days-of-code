@@ -17,3 +17,11 @@ Today I practiced a little CSS. I am very comfortable with CSS but just wanted t
 **Thoughts:** As part of the challange, I tried creating a simple CSS only switch. I idea was very simple just took longer than I expected. I finally got it to work though. The code for this will be used in the portfolio project. Look at the code in the practice.html file.
 
 **Link to work:** 
+
+### Day 2: January 5, 2016  Thursday
+
+**Today's Progress**: 
+Today I completed the styling of my tribute page
+
+**Thoughts:** 
+**Link to work:** [Tribute page](http://kodinglife.github.io/tribute-page)
