@@ -25,3 +25,11 @@ Today I completed the styling of my tribute page
 
 **Thoughts:** 
 **Link to work:** [Tribute page](http://kodinglife.github.io/tribute-page)
+
+### Day 3: January 6, 2016 Friday
+
+**Today's Progress**: 
+Today I a simple CSS traffic light. With ON/OFF switches. I also learned SASS from nodeschool.io "learn-sass" workshop;
+
+**Thoughts:** 
+**Link to work:** [Traffic Light](http://kodinglife.github.io/tribute-page)
