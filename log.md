@@ -29,7 +29,23 @@ Today I completed the styling of my tribute page
 ### Day 3: January 6, 2016 Friday
 
 **Today's Progress**: 
-Today I a simple CSS traffic light. With ON/OFF switches. I also learned SASS from nodeschool.io "learn-sass" workshop;
+Today I made a simple CSS traffic light. With ON/OFF switches. I also learned SASS from nodeschool.io "learn-sass" workshop;
 
 **Thoughts:** 
 **Link to work:** [Traffic Light](http://kodinglife.github.io/tribute-page)
+
+### Day 4: January 7, 2016 Saturday
+
+**Today's Progress**: 
+Went through codecademy's "learn-sass" course and started converting my styles.
+
+**Thoughts:** 
+**Link to work:** N/A
+
+### Day 5: January 8, 2016 Sunday
+
+**Today's Progress**: 
+Went through YDKJS "Up & Going" book. Was very helpful. Now hitting FCC for some practical
+
+**Thoughts:** 
+**Link to work:** N/A
