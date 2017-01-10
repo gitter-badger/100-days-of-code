@@ -49,3 +49,12 @@ Went through YDKJS "Up & Going" book. Was very helpful. Now hitting FCC for some
 
 **Thoughts:** 
 **Link to work:** N/A
+
+### Day 6: January 9, 2016 Monday
+
+**Today's Progress**: 
+Try building a Wikipedia Viewer for FCC project.
+
+**Thoughts:** 
+Got the HTML and CSS down just cannot get the JSON to pull. Some "CORS" issues. Hopefully that gets fixed later today or tomorrow.
+**Link to work:** N/A
