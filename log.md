@@ -53,6 +53,7 @@ Went through YDKJS "Up & Going" book. Was very helpful. Now hitting FCC for some
 ### Day 6: January 9, 2016 Monday
 
 **Today's Progress**: 
+<<<<<<< HEAD
 Began the day looking at the FCC wiki view page.
 **Thoughts:**
 I have been trying to figure this out. It is really furstrating. Will stick with it though. I will figure it out eventually. 
@@ -65,3 +66,10 @@ Work has slow my progress but I still manage to do some SASS study started two o
 **Thoughts:**
 Things are going slowly but I am living up to the commitment. 
 I recently pickedup p5js (already had some processing knowledge) and how awesome it is.
+=======
+Try building a Wikipedia Viewer for FCC project.
+
+**Thoughts:** 
+Got the HTML and CSS down just cannot get the JSON to pull. Some "CORS" issues. Hopefully that gets fixed later today or tomorrow.
+**Link to work:** N/A
+>>>>>>> 6586dc6c09ca2f701d23a94fcb4a17e021a943d1
