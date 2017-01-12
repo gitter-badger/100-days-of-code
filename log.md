@@ -59,7 +59,7 @@ Began the day looking at the FCC wiki view page.
 I have been trying to figure this out. It is really furstrating. Will stick with it though. I will figure it out eventually. 
 **Link to work:** [Wiki Viewer](http://codepen.io/algorithm/pen/aNQVwO?editors=0011)
 
-### Day 7, 8, 9: January 10 -12
+### Day 7, 8, 9: January 10 -12, 2017
 
 **Today's Progress**: 
 Work has slow my progress but I still manage to do some SASS study started two of my FCC projects (Wiki viewer & Weather).
@@ -72,4 +72,13 @@ Try building a Wikipedia Viewer for FCC project.
 **Thoughts:** 
 Got the HTML and CSS down just cannot get the JSON to pull. Some "CORS" issues. Hopefully that gets fixed later today or tomorrow.
 **Link to work:** N/A
->>>>>>> 6586dc6c09ca2f701d23a94fcb4a17e021a943d1
+
+### Day 9: January 12, 2017
+
+**Today's Progress**: 
+Made real progress on my weather app. Looking to complete it this week.
+=======
+
+**Thoughts:** 
+Studying up SASS and CORS (needed to complete my Wiki Viewer project) and building my weather app. The OWM Api runs seamlessly. After this, I will hit the grind on CORS and work on my Wiki Viewer.
+**Link to work:** N/A
