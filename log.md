@@ -49,3 +49,19 @@ Went through YDKJS "Up & Going" book. Was very helpful. Now hitting FCC for some
 
 **Thoughts:** 
 **Link to work:** N/A
+
+### Day 6: January 9, 2016 Monday
+
+**Today's Progress**: 
+Began the day looking at the FCC wiki view page.
+**Thoughts:**
+I have been trying to figure this out. It is really furstrating. Will stick with it though. I will figure it out eventually. 
+**Link to work:** [Wiki Viewer](http://codepen.io/algorithm/pen/aNQVwO?editors=0011)
+
+### Day 7, 8, 9: January 10 -12
+
+**Today's Progress**: 
+Work has slow my progress but I still manage to do some SASS study started two of my FCC projects (Wiki viewer & Weather).
+**Thoughts:**
+Things are going slowly but I am living up to the commitment. 
+I recently pickedup p5js (already had some processing knowledge) and how awesome it is.
