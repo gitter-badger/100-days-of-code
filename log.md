@@ -82,3 +82,12 @@ Made real progress on my weather app. Looking to complete it this week.
 **Thoughts:** 
 Studying up SASS and CORS (needed to complete my Wiki Viewer project) and building my weather app. The OWM Api runs seamlessly. After this, I will hit the grind on CORS and work on my Wiki Viewer.
 **Link to work:** N/A
+
+### Day 10, 11: January 13, 14 2017
+
+**Today's Progress**: 
+Been working on my weather app. Having some issues.
+=======
+
+**Thoughts:** 
+I am being hit with strange issues. First CORS, then jQuery problems then codepen. It is like I am getting all my bad days at once. Hope to get out of it soon. Taking Kallaway advice and sticking with it.  
