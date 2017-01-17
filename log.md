@@ -91,3 +91,22 @@ Been working on my weather app. Having some issues.
 
 **Thoughts:** 
 I am being hit with strange issues. First CORS, then jQuery problems then codepen. It is like I am getting all my bad days at once. Hope to get out of it soon. Taking Kallaway advice and sticking with it.  
+
+
+### Day 12, 13: January 15, 15 2017
+
+**Today's Progress**: 
+Still building my weather app. Been through some bugs and errors.
+=======
+
+**Thoughts:** 
+These two days have been brutal. Dry out at work only to spend hours on end looking at Chrome developers' console and sublime text looking for a bug. Trying to do it myself though.
+
+### Day 14: January 17, 2017
+
+**Today's Progress**: 
+Still working on my weather app. Things are looking up though.
+=======
+
+**Thoughts:** 
+Found the bug last night. Turned out to be a simple case of typo. I didn't add the http:// before the API url. The error seems pretty obvious now but was a real pain these two days. Anyways, on we go!
